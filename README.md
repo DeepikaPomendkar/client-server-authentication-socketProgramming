@@ -37,7 +37,11 @@
     * This is sent to the server as response.
     * If the responce sent by the client is same as that computed by the server then the client is authenticated.
     
+    
+    
 
+* Shematic view of the client-server-authentication model 
+<img src="https://user-images.githubusercontent.com/45281119/68567149-5368f800-047e-11ea-81e8-7fa4b6793ffa.jpeg" width="500px">
   
 
 
