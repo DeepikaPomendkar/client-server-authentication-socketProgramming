@@ -1,1 +1,1 @@
-# client-server-authentication-socketProgramming
+# DCCN-MINI PROJECT client-server-authentication-socketProgramming
