@@ -4,7 +4,7 @@
 * The code is written in python 2.7
 * In this project an authentication of the client can be done using Socket programming.
 
-* OpenSSL is used for creating a connection between the client and server.
+* Socket is used for creating a connection between the client and server.
 * Sqlite3 is used as a backend database.
 * SHA256 is used for hashing in this program.
 
